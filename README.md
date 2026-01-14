@@ -19,6 +19,9 @@ L’analisi dei risultati, la visualizzazione delle osservabili e lo studio dell
 
 - `xy_organized.html`
   html del Jupyter Notebook per:
+
+- `xy_organized.html`
+  Jupyter Notebook per:
   - compilare e importare il modulo Fortran in Python,
   - eseguire simulazioni Monte Carlo,
   - analizzare le osservabili fisiche,
